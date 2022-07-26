@@ -1,4 +1,4 @@
-package com.sii.socialMediaApi.model;
+package com.gliglis.socialMediaApi.model;
 
 import lombok.Getter;
 import org.hibernate.validator.constraints.Length;

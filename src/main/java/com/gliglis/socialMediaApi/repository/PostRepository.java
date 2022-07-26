@@ -1,6 +1,6 @@
-package com.sii.socialMediaApi.repository;
+package com.gliglis.socialMediaApi.repository;
 
-import com.sii.socialMediaApi.model.Post;
+import com.gliglis.socialMediaApi.model.Post;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;

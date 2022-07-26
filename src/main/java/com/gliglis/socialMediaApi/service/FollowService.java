@@ -1,7 +1,7 @@
-package com.sii.socialMediaApi.service;
+package com.gliglis.socialMediaApi.service;
 
-import com.sii.socialMediaApi.model.Follow;
-import com.sii.socialMediaApi.repository.FollowRepository;
+import com.gliglis.socialMediaApi.repository.FollowRepository;
+import com.gliglis.socialMediaApi.model.Follow;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

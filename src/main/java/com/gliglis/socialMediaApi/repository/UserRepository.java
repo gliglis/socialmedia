@@ -1,6 +1,6 @@
-package com.sii.socialMediaApi.repository;
+package com.gliglis.socialMediaApi.repository;
 
-import com.sii.socialMediaApi.model.User;
+import com.gliglis.socialMediaApi.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface UserRepository extends JpaRepository<User, Long> {

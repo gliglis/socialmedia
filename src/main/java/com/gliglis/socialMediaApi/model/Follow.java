@@ -1,4 +1,4 @@
-package com.sii.socialMediaApi.model;
+package com.gliglis.socialMediaApi.model;
 
 import lombok.AccessLevel;
 import lombok.AllArgsConstructor;

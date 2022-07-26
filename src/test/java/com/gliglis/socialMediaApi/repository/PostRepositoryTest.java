@@ -1,7 +1,7 @@
-package com.sii.socialMediaApi.repository;
+package com.gliglis.socialMediaApi.repository;
 
 import com.github.springtestdbunit.annotation.DatabaseSetup;
-import com.sii.socialMediaApi.model.Post;
+import com.gliglis.socialMediaApi.model.Post;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;

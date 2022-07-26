@@ -1,7 +1,7 @@
-package com.sii.socialMediaApi.service;
+package com.gliglis.socialMediaApi.service;
 
-import com.sii.socialMediaApi.model.Post;
-import com.sii.socialMediaApi.repository.PostRepository;
+import com.gliglis.socialMediaApi.model.Post;
+import com.gliglis.socialMediaApi.repository.PostRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

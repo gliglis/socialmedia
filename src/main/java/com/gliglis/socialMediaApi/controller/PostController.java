@@ -1,7 +1,7 @@
-package com.sii.socialMediaApi.controller;
+package com.gliglis.socialMediaApi.controller;
 
-import com.sii.socialMediaApi.model.Post;
-import com.sii.socialMediaApi.service.PostService;
+import com.gliglis.socialMediaApi.service.PostService;
+import com.gliglis.socialMediaApi.model.Post;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 

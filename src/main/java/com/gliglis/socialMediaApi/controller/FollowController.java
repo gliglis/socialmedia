@@ -1,6 +1,6 @@
-package com.sii.socialMediaApi.controller;
+package com.gliglis.socialMediaApi.controller;
 
-import com.sii.socialMediaApi.service.FollowService;
+import com.gliglis.socialMediaApi.service.FollowService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PutMapping;

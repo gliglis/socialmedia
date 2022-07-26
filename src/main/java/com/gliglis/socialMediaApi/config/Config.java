@@ -1,4 +1,4 @@
-package com.sii.socialMediaApi.config;
+package com.gliglis.socialMediaApi.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
