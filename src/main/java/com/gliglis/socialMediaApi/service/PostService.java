@@ -16,4 +16,8 @@ public class PostService {
     public List<Post> loadAll(long userId, boolean isAsc) {
         return isAsc ? postRepository.findAllAsc(userId) : postRepository.findAllDesc(userId);
     }
+
+    public Post addNew(Post post) {
+        return postRepository.save(post);
+    }
 }
